@@ -1,24 +1,24 @@
 ---
 title: markdowncv
-name: "Colton"
+name: "Pamela"
 namecolor: "#E1BE6A"
-surname: Baumler
-position: "Graduate Student Candidate"
+surname: Reynolds
+position: "Associate Director"
 pronouns: He/Him
-address: "Data Intensive Biology lab of the University of California, Davis"
+address: "DataLab: Data Science and Informatics, University of California, Davis"
 #phone: +1 555 555 5555
 www: ""
-email: "ccbaumler@ucdavis.edu"
-github: ccbaumler
-linkedin: colton-baumler
-orcid: 0000-0002-5926-7792
+email: "plreynolds@ucdavis.edu"
+github: plnreynolds
+linkedin: camela-reynolds-9152a429
+orcid: 0000-0002-0177-3537
 headcolor: "#FFD700"
 addresscolor: "#A7D3DC"
 codecolor: "#CCCCCC"
 backcolor: "#777"
 textcolor: "#FFFFFF"
 date: "`r format(Sys.time(), '%B %Y')`"
-aboutme: "I am deeply engaged in bioinformatics and mentorship. I excitedly wrangle data, craft software, and create dynamic mentorship opportunities."
+aboutme: "I have a background in interdisciplinary research and team science. I manage DataLab’s research projects, education programs, and data science community efforts. I teach computational tools and thinking to enable innovation and student success. I received my PhD in Biology from UNC Chapel Hill, and bachelor’s of science in Biological Sciences and bachelor's of arts in English from UC Davis. I led a global research network for my postdoctoral studies. My interests include experimental design, statistical modeling, and data science pedagogy.."
 output:
   vitae::markdowncv:
     theme: ccbaumler
